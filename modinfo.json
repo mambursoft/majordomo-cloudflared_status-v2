@@ -1,0 +1,1 @@
+{"name":"cloudflared_status","version":"1.0.0","title":"Cloudflared Status v2","description":"Стан локального тунелю Cloudflared за metrics endpoint.","author":"mambursoft","license":"MIT","category":"system"}
